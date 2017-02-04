@@ -4,6 +4,8 @@ body {
 h1 {
     color: pink;
     text-align: center;
+    font-family: verdana;
+    font-size: 40px;
 }
 p {
     font-family: verdana;
